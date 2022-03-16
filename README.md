@@ -1,2 +1,2 @@
-# Repositório: Desafio projeto Github - DIO-Bancocarrefourwoman
+# Repositório: Desafios - DIO -Bancocarrefourwoman
 Desafio de projeto sobre Git/Github - DIO - Bootcamp Bancocarrefourwoman
